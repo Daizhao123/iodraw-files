@@ -16,7 +16,7 @@
         <mxCell id="kRcoa1FCaxqPP34jfWJy-4" value="阅读" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="150" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kRcoa1FCaxqPP34jfWJy-5" value="做题" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="kRcoa1FCaxqPP34jfWJy-5" value="考试" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="150" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kRcoa1FCaxqPP34jfWJy-6" value="范听" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
